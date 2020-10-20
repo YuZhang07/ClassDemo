@@ -1,0 +1,94 @@
+﻿ID,Last Name,First Name,Gender,Department,Title,Salary,Performance
+10000,Aikman,Gary,F,Sound Design,Senior Sound Designer,67000,Average
+10387,Felser,Cynthia,F,Animation,Lead Animator,80000,Good
+10552,Leslie,Jean,F,Art,Artist,45250,Average
+10936,Cusak,Barbara,F,Programming,Programmer,70125,Average
+11048,Noble,Linda,M,Game Design,Senior Game Designer,72500,Excellent
+11309,Bobbitt,Oronzo,F,Programming,Senior Programmer,105250,Good
+11390,Lobree,Cindy,F,Art,Artist,46125,Average
+11447,Sampieri,Maylou,M,Programming,Programmer,61000,Good
+11828,Powell,Kathy,F,Quality Assurance,QA Tester,45000,Excellent
+12080,Cole,Kordell,M,Programming,Programmer,65100,Average
+12182,Foerster,Shelly,F,Animation,Senior Animator,51250,Average
+12392,Guilford,Betty,F,Animation,Animator,58000,Good
+12524,Drubin,Hank,F,Programming,Programmer,68750,Good
+12593,Spinale,Lorna,M,Sound Design,Sound Designer,61250,Excellent
+12961,Watson,Fran,F,Programming,Programmer,85750,Excellent
+13153,Pennekamp,Lynn,F,Quality Assurance,Senior QA Tester,51000,Excellent
+13183,Fegin,Nancy,M,Programming,Programmer,89000,Excellent
+13638,Erpf,Meredith,F,Programming,Programmer,85800,Excellent
+13694,White,Jack,F,Programming,Programmer,89000,Excellent
+13703,Jones,Maryanne,F,Art,Senior Artist,65800,Good
+13949,Jackson,Heidi,F,Art,Senior Artist,59850,Average
+14196,Hood,Joan,F,Art,Senior Artist,65000,Good
+14426,Moss,Lance,F,Art,Artist,52250,Excellent
+15271,Wilson,Claudia,M,Animation,Animator,40000,Average
+15594,Ross,Fred,F,Quality Assurance,QA Tester,35000,Average
+15696,Martin,Patsy,F,Art,Artist,45000,Average
+15881,Scott,Laura,M,Animation,Animator,50000,Average
+15903,Park,Ryan,M,Game Design,Game Designer,57250,Good
+16213,Gonzalez,Yolanda,F,Animation,Animator,61250,Excellent
+16401,Wynperle,Allison,M,Art,Senior Artist,70000,Good
+16760,Wood,Jimmy,F,Art,Senior Artist,65000,Average
+17008,Hasty,Debbie,F,Animation,Animator,60000,Average
+17226,North,Kathy,M,Game Design,Game Designer,57250,Good
+17466,Parker,Angela,F,Production,Executive Producer,105000,Excellent
+17604,Brawner,Missy,F,Programming,Senior Programmer,93750,Average
+17673,Fleming,Amy,M,Animation,Senior Animator,71000,Good
+17699,Sade,Ringo,M,Sound Design,Sound Designer,55000,Excellent
+17762,Stieglitz,Larry,F,Sound Design,Sound Designer,50000,Average
+17845,Munroe,Robert,F,Art,Artist,46000,Good
+18016,Mills,Mark,M,Art,Artist,42000,Average
+18154,Voell,Liz,F,Programming,Programmer,80000,Excellent
+18223,Titley,Kathy,F,Programming,Programmer,50000,Average
+18845,Brett,Phil,F,Programming,Senior Programmer,97500,Good
+19080,Shuffield,Jeb,F,Art,Artist,45000,Average
+19203,Brickey,Wiliam,M,Programming,Senior Programmer,90000,Average
+19559,Mosely,Susan,F,Art,Artist,45250,Good
+19757,Dill,Jeanne,F,Programming,Programmer,60125,Average
+19968,Reed,Robert,F,Quality Assurance,QA Tester,41000,Good
+20014,Evans,Jessica,F,Programming,Programmer,63800,Good
+20151,Brooks,Arnold,F,Programming,Programmer,75000,Good
+20228,Strump,David,F,Sound Design,Sound Designer,53250,Average
+20246,Payne,Kathleen,F,Quality Assurance,Senior QA Tester,50000,Excellent
+20607,Lazarus,Clay,F,Art,Artist,45000,Average
+20662,Jenks,Karen,M,Art,Senior Artist,62500,Good
+20719,Rapee,Paula,M,Quality Assurance,QA Tester,41250,Good
+20966,Gander,David,M,Animation,Animator,55000,Good
+21743,Restery,Mimi,F,Quality Assurance,QA Tester,35000,Average
+21766,Park,Terry,F,Production,Producer: Product Manager,90000,Excellent
+22084,Halloway,Monica,F,Animation,Animator,70000,Excellent
+22284,Moran,Mike,F,Art,Artist,40000,Average
+22449,Shindell,Debbie,M,Animation,Animator,60000,Excellent
+22454,Sapp,Leslie,M,Programming,Programmer,63250,Good
+22793,Rudy,Jamie,M,Quality Assurance,QA Tester,35000,Average
+22920,Anderson,Jeff,F,Sound Design,Sound Designer,55000,Excellent
+23123,Afflord,Tom,F,Sound Design,Senior Sound Designer,75500,Excellent
+23164,Quinton,Barney,M,Quality Assurance,QA Tester,40000,Good
+23303,Justice,Frank,M,Art,Senior Artist,52250,Average
+23422,Jamison,Ruth,F,Art,Senior Artist,58000,Average
+23480,Johnson,Paula,F,Art,Senior Artist,55000,Average
+23484,Simon,Bridget,F,Art,Artist,40000,Average
+23522,Munter,John,F,Game Design,Senior Game Designer,65000,Average
+23837,Williamson,Tina,F,Animation,Animator,45000,Average
+24063,Smith,Michelle,M,Art,Artist,42250,Average
+24098,Moynahan,Ramsey,M,Art,Artist,41025,Average
+24334,Bogani,Jane,M,Programming,Senior Programmer,100135,Good
+24627,Holly,Jimmy,F,Art,Lead Artist,70000,Good
+24736,Goldstein,George,M,Animation,Animator,50000,Average
+24774,Figure,Sandra,F,Animation,Senior Animator,65000,Average
+24997,Adams,Martha,F,Sound Design,Lead Sound Designer,85000,Good
+25190,Carlo,Criste,M,Programming,Programmer,82425,Good
+25398,Hoffman,Marjorie,F,Animation,Animator,65725,Good
+25496,Scola,Joan,F,Programming,Programmer,65760,Good
+25640,Mason,Elise,F,Art,Artist,47000,Good
+25940,Fischler,Judy,M,Animation,Senior Animator,68750,Average
+26148,Munroe,Eleanor,F,Game Design,Lead Game Designer,80000,Good
+26341,Houston,Alex,M,Art,Senior Artist,60000,Average
+26517,Pawley,Bradley,M,Quality Assurance,Lead QA Tester,60000,Excellent
+26634,Rodriguez,Susan,F,Quality Assurance,QA Tester,42000,Excellent
+26679,Whiting,Sarah,F,Animation,Animator,52500,Good
+26813,Denver,Jan,F,Programming,Programmer,58400,Average
+26896,Bermont,Thomas,M,Programming,Lead Programmer,120000,Excellent
+27244,De Maria,Cristi,F,Programming,Programmer,90000,Excellent
+27474,Elway,William,M,Programming,Programmer,75000,Good

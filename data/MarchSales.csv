@@ -1,0 +1,108 @@
+﻿Trans_No,Operator,Sales_First,Sales_Last,Date,Department,Furniture,Pay_Type,Trans_Type,Amount
+2018-001,KRM,Sebastian,Gruenewald,3/1/2018,Bedroom,Mattress,Finance,Promotion,2788
+2018-002,RKM,Sebastian,Gruenewald,3/1/2018,Bedroom,Mattress,Finance,Promotion,3245
+2018-003,MAP,Jade,Gallagher,3/1/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Promotion,10000
+2018-004,MAP,Jade,Gallagher,3/1/2018,Living Room,End Tables,Finance,Promotion,1000
+2018-005,MAP,Jade,Gallagher,3/1/2018,Appliances,Washer and Dryer,Finance,Promotion,2750
+2018-006,COK,Ambrose,Sardelis,3/1/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Promotion,12000
+2018-006,COK,Ambrose,Sardelis,3/1/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Promotion,12000
+2018-007,MAP,Jade,Gallagher,3/1/2018,Dining Room,Dining Room Table,Finance,Promotion,3240
+2018-008,COK,Chantalle,Desmarais,3/1/2018,Dining Room,Dining Room Table,Finance,Promotion,4080
+2018-009,KRM,Sebastian,Gruenewald,3/1/2018,Appliances,Washer and Dryer,Finance,Promotion,2750
+2018-010,MAP,Jade,Gallagher,3/2/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,6780
+2018-011,COK,Chantalle,Desmarais,3/2/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,10000
+2018-012,KRM,Ambrose,Sardelis,3/2/2018,Appliances,Washer,Paid in Full,Promotion,1100
+2018-013,COK,Chantalle,Desmarais,3/3/2018,Living Room,Recliners,Finance,Standard,2430
+2018-014,COK,Jade,Gallagher,3/3/2018,Dining Room,Dining Room Table and Chairs,Paid in Full,Standard,4550
+2018-015,MAP,Chantalle,Desmarais,3/3/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Standard,6784
+2018-016,MAP,Jade,Gallagher,3/4/2018,Appliances,Dishwasher,Paid in Full,Standard,640
+2018-017,MAP,Jade,Gallagher,3/4/2018,Appliances,"Refrigerator, Oven, Microwave Combo",Finance,Promotion,8490
+2018-018,KRM,Sebastian,Gruenewald,3/4/2018,Appliances,"Refrigerator, Oven, Microwave Combo",Finance,Promotion,6780
+2018-018,KRM,Sebastian,Gruenewald,3/4/2018,Appliances,"Refrigerator, Oven, Microwave Combo",Finance,Promotion,6780
+2018-019,RHB,Jade,Gallagher,3/5/2018,Living Room,Sofa,Paid in Full,Standard,2500
+2018-020,RHB,Jade,Gallagher,3/5/2018,Living Room,End Tables,Paid in Full,Standard,950
+2018-021,RHB,Jade,Gallagher,3/5/2018,Dining Room,Bar Stools,Paid in Full,Standard,425
+2018-022,KRM,Ambrose,Sardelis,3/6/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,10000
+2018-023,RMP,Jade,Gallagher,3/6/2018,Living Room,Sofa,Paid in Full,Standard,1732
+2018-024,MRP,Jade,Gallagher,3/6/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,8560
+2018-025,COK,Jade,Gallagher,3/7/2018,Dining Room,China Hutch,Finance,Promotion,3240
+2018-026,KRM,Sebastian,Gruenewald,3/7/2018,Living Room,"Sofa, Loveseat",Paid in Full,Standard,7690
+2018-027,COK,Chantalle,Desmarais,3/8/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,5000
+2018-028,COK,Jade,Gallagher,3/8/2018,Appliances,Refrigerator,Finance,Promotion,1574
+2018-029,KRM,Sebastian,Gruenewald,3/9/2018,Appliances,Dryer,Finance,Promotion,1624
+2018-029,KRM,Sebastian,Gruenewald,3/9/2018,Appliances,Dryer,Finance,Promotion,1624
+2018-030,MAP,Jade,Gallagher,3/9/2018,Living Room,"Sofa, Loveseat",Finance,Promotion,7500
+2018-031,KRM,Sebastian,Gruenewald,3/10/2018,Dining Room,Dining Room Table and Chairs,Finance,Promotion,5000
+2018-032,COK,Chantalle,Desmarais,3/10/2018,Dining Room,China Hutch,Paid in Full,Promotion,1225
+2018-033,RHB,Ambrose,Sardelis,3/11/2018,Appliances,Dishwasher,Paid in Full,Standard,640
+2018-034,RHB,Sebastian,Gruenewald,3/11/2018,Appliances,Refrigerator,Paid in Full,Promotion,1574
+2018-035,COK,Chantalle,Desmarais,3/12/2018,Appliances,Washer and Dryer,Finance,Standard,3100
+2018-036,COK,Sebastian,Gruenewald,3/12/2018,Appliances,Microwave,Paid in Full,Promotion,155
+2018-037,MAP,Jade,Gallagher,3/13/2018,Dining Room,Bar Stools,Paid in Full,Standard,900
+2018-038,KRM,Jade,Gallagher,3/13/2018,Dining Room,Kitchen Table and Chairs,Paid in Full,Standard,1424
+2018-039,KRM,Jade,Gallagher,3/13/2018,Appliances,"Refrigerator, Oven, Microwave Combo",Finance,Standard,6700
+2018-040,RHB,Chantalle,Desmarais,3/13/2018,Appliances,Dishwasher,Paid in Full,Standard,625
+2018-041,COK,Ambrose,Sardelis,3/14/2018,Dining Room,Dining Room Table and Chairs,Finance,Promotion,12458
+2018-042,COK,Ambrose,Sardelis,3/14/2018,Living Room,Recliners,Finance,Promotion,3240
+2018-043,KRM,Sebastian,Gruenewald,3/14/2018,Dining Room,China Hutch,Finance,Standard,2545
+2018-044,KRM,Ambrose,Sardelis,3/15/2018,Living Room,Recliners,Paid in Full,Promotion,3240
+2018-045,KRM,Ambrose,Sardelis,3/15/2018,Appliances,Microwave,Paid in Full,Promotion,225
+2018-046,COK,Jade,Gallagher,3/15/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,7500
+2018-046,COK,Jade,Gallagher,3/15/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,7500
+2018-047,RHB,Ambrose,Sardelis,3/16/2018,Living Room,End Tables,Paid in Full,Promotion,1424
+2018-047,RHB,Ambrose,Sardelis,3/16/2018,Living Room,End Tables,Paid in Full,Promotion,1424
+2018-048,RHB,Sebastian,Gruenewald,3/16/2018,Appliances,Dishwasher,Finance,Standard,450
+2018-049,RHB,Sebastian,Gruenewald,3/17/2018,Appliances,"Refrigerator, Oven Combo",Finance,Standard,3280
+2018-050,RHB,Sebastian,Gruenewald,3/17/2018,Dining Room,Bar Stools,Paid in Full,Standard,495
+2018-051,COK,Jade,Gallagher,3/18/2018,Dining Room,Kitchen Table and Chairs,Paid in Full,Standard,875
+2018-052,COK,Sebastian,Gruenewald,3/18/2018,Appliances,Washer and Dryer,Paid in Full,Standard,3140
+2018-053,MAP,Jade,Gallagher,3/19/2018,Dining Room,China Hutch,Paid in Full,Standard,1824
+2018-054,MAP,Jade,Gallagher,3/19/2018,Appliances,"Refrigerator, Oven Combo",Paid in Full,Standard,3280
+2018-055,COK,Chantalle,Desmarais,3/19/2018,Dining Room,Kitchen Table and Chairs,Paid in Full,Promotion,1172
+2018-056,COK,Chantalle,Desmarais,3/19/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Standard,12500
+2018-057,KRM,Ambrose,Sardelis,3/20/2018,Dining Room,Kitchen Table and Chairs,Paid in Full,Standard,975
+2018-058,KRM,Sebastian,Gruenewald,3/20/2018,Appliances,Microwave,Paid in Full,Standard,125
+2018-059,MAP,Jade,Gallagher,3/20/2018,Dining Room,Dining Room Table and Chairs,Finance,Promotion,7540
+2018-060,KRM,Sebastian,Gruenewald,3/20/2018,Dining Room,Dining Room Table and Chairs,Finance,Standard,9430
+2018-061,COK,Chantalle,Desmarais,3/21/2018,Appliances,"Refrigerator, Oven, Microwave Combo",Finance,Promotion,7500
+2018-062,COK,Jade,Gallagher,3/21/2018,Dining Room,Dining Room Table and Chairs,Finance,Promotion,6000
+2018-063,MAP,Chantalle,Desmarais,3/21/2018,Dining Room,China Hutch,Finance,Promotion,3125
+2018-064,MAP,Sebastian,Gruenewald,3/21/2018,Appliances,"Refrigerator, Oven, Microwave Combo",Finance,Promotion,10000
+2018-065,KRM,Ambrose,Sardelis,3/22/2018,Living Room,Sofa,Finance,Standard,3450
+2018-066,KRM,Sebastian,Gruenewald,3/22/2018,Appliances,Refrigerator,Paid in Full,Standard,2575
+2018-067,RHB,Jade,Gallagher,3/22/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Standard,8400
+2018-069,KRM,Chantalle,Desmarais,3/23/2018,Dining Room,Kitchen Table and Chairs,Finance,Promotion,1345
+2018-070,KRM,Ambrose,Sardelis,3/23/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Promotion,12500
+2018-071,KRM,Ambrose,Sardelis,3/23/2018,Appliances,Dishwasher,Paid in Full,Standard,450
+2018-072,KRM,Ambrose,Sardelis,3/23/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,12150
+2018-073,COK,Chantalle,Desmarais,3/24/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Standard,17500
+2018-074,MAP,Jade,Gallagher,3/24/2018,Living Room,Loveseat,Paid in Full,Promotion,1255
+2018-075,MAP,Ambrose,Sardelis,3/24/2018,Living Room,"Sofa, Loveseat",Paid in Full,Standard,4275
+2018-076,COK,Sebastian,Gruenewald,3/24/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,7525
+2018-077,RHB,Chantalle,Desmarais,3/24/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,4200
+2018-078,RHB,Chantalle,Desmarais,3/24/2018,Bedroom,Bedroom Furniture Set,Paid in Full,Promotion,4200
+2018-079,COK,Ambrose,Sardelis,3/24/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,3240
+2018-080,MAP,Chantalle,Desmarais,3/25/2018,Living Room,Recliners,Finance,Standard,2424
+2018-081,MAP,Jade,Gallagher,3/25/2018,Bedroom,Mattress,Finance,Standard,1200
+2018-082,KRM,Sebastian,Gruenewald,3/25/2018,Bedroom,Bedroom Furniture Set,Finance,Standard,4211
+2018-083,KRM,Ambrose,Sardelis,3/25/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,3211
+2018-084,MAP,Jade,Gallagher,3/25/2018,Bedroom,Mattress,Finance,Promotion,3240
+2018-085,RHB,Sebastian,Gruenewald,3/26/2018,Dining Room,China Hutch,Paid in Full,Standard,3275
+2018-086,KRM,Ambrose,Sardelis,3/26/2018,Bedroom,Bedroom Furniture Set,Paid in Full,Standard,8340
+2018-087,RHB,Jade,Gallagher,3/26/2018,Bedroom,Mattress,Paid in Full,Promotion,1425
+2018-088,RHB,Chantalle,Desmarais,3/26/2018,Bedroom,Bedroom Furniture Set,Paid in Full,Standard,4125
+2018-089,KRM,Ambrose,Sardelis,3/26/2018,Bedroom,Bedroom Furniture Set,Paid in Full,Standard,11972
+2018-090,MAP,Jade,Gallagher,3/27/2018,Dining Room,Kitchen Table and Chairs,Paid in Full,Standard,975
+2018-091,COK,Ambrose,Sardelis,3/27/2018,Bedroom,Bedroom Furniture Set,Finance,Standard,8340
+2018-092,MAP,Chantalle,Desmarais,3/28/2018,Living Room,Loveseat,Finance,Standard,2325
+2018-093,MAP,Ambrose,Sardelis,3/28/2018,Bedroom,Mattress,Paid in Full,Standard,2000
+2018-094,MAP,Ambrose,Sardelis,3/28/2018,Bedroom,Mattress,Paid in Full,Promotion,3245
+2018-095,COK,Sebastian,Gruenewald,3/29/2018,Living Room,"Sofa, Loveseat, Chair Package",Finance,Standard,14275
+2018-096,COK,Sebastian,Gruenewald,3/29/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,3285
+2018-097,COK,Sebastian,Gruenewald,3/29/2018,Bedroom,Bedroom Furniture Set,Finance,Standard,14321
+2018-098,RHB,Jade,Gallagher,3/30/2018,Dining Room,China Hutch,Finance,Promotion,2480
+2018-099,RHB,Jade,Gallagher,3/30/2018,Bedroom,Mattress,Finance,Standard,1425
+2018-100,COK,Chantalle,Desmarais,3/30/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,11234
+2018-101,KRM,Sebastian,Gruenewald,3/31/2018,Bedroom,Bedroom Furniture Set,Finance,Promotion,5773
+2018-102,MAP,Chantalle,Desmarais,3/31/2018,Bedroom,Mattress,Paid in Full,Promotion,2000
+2018-103,KRM,Sebastian,Gruenewald,3/31/2018,Living Room,End Tables,Finance,Standard,2505
