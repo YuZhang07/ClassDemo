@@ -1,0 +1,82 @@
+Trans_No,Address,City,Selling_Agent,Asking_Price,Selling_Price,Listing_Date,Sale_Date
+1,8687 Kenwood Road,Cedar Hills,Hernandez,725000,645250,4/1/2018,6/16/2018
+2,11 West Oak Circle,American Fork,Carey,350000,340000,4/1/2018,5/15/2018
+3,314 Timp View Drive,American Fork,Goodrich,418000,400000,4/1/2018,6/1/2018
+4,614 West Cedar Drive,Lehi,Lugo,215800,200000,4/1/2018,5/25/2018
+5,750 South Apple Way,American Fork,Goodrich,385900,385900,4/1/2018,4/30/2018
+6,7 Kingston Court,Alpine,Carey,500000,465000,4/3/2018,6/10/2018
+7,618 West Cedar Drive,Lehi,Lugo,300000,290000,4/3/2018,6/1/2018
+8,321 North Choctaw,American Fork,Minkus,565000,535000,4/6/2018,9/30/2018
+9,1370 Pinellas Road,Alpine,Lugo,219000,215000,4/8/2018,6/2/2018
+10,1971 Glenview Road,Lehi,Minkus,165000,156750,4/12/2018,6/12/2018
+11,15 West Oak Circle,American Fork,Hernandez,325000,320000,4/12/2018,5/30/2018
+12,575 South Choctaw,Alpine,Goodrich,750250,700000,4/12/2018,11/1/2018
+13,10995 SW 88 Court,Lehi,Goodrich,110000,106000,4/12/2018,7/3/2018
+14,143 North Mountain View,American Fork,Carey,314250,304000,4/13/2018,8/5/2018
+15,29 East Oak Circle,American Fork,Merkin,555000,500000,4/13/2018,10/15/2018
+16,8030 Steeplechase Drive,Alpine,Merkin,450000,382500,4/15/2018,6/30/2018
+17,2006 Cutwater Court,Alpine,Minkus,345000,339999,4/18/2018,6/23/2018
+18,9876 South Sunset Avenue,Eagle Mountain,Hernandez,300000,300000,4/18/2018,4/30/2018
+19,321 West Walnut Grove,American Fork,Goodrich,425000,415000,4/18/2018,6/30/2018
+20,4081 Lybyer Avenue,Alpine,Minkus,325000,308750,4/19/2018,7/2/2018
+21,1900 Glenview Road,Lehi,Hernandez,325000,302250,4/28/2018,6/1/2018
+22,9000 South Sunset Avenue,Eagle Mountain,Lugo,325000,320000,4/28/2018,5/28/2018
+23,8432 South Sunset Avenue,Eagle Mountain,Minkus,285750,300000,4/28/2018,6/3/2018
+24,831 South Weber,American Fork,Lugo,425815,400000,4/28/2018,9/15/2018
+25,714 Timp View Lane,American Fork,Goodrich,250000,232000,4/29/2018,9/1/2018
+26,240 East Jefferson Way,Eagle Mountain,Lugo,515000,485750,4/29/2018,8/25/2018
+27,224 Rockaway Street,Alpine,Pijuan,400000,375000,4/30/2018,6/19/2018
+28,260 East Jefferson Way,Eagle Mountain,Hernandez,450000,400000,4/30/2018,10/1/2018
+29,290 East Jefferson Way,Eagle Mountain,Pijuan,310000,300000,4/30/2018,7/1/2018
+30,8307 S Indian River Drive,Lehi,Hernandez,250000,255000,5/1/2018,6/18/2018
+31,123 Ivy Lane,Eagle Mountain,Pijuan,375500,375500,5/1/2018,5/5/2018
+32,9408 Forest Hills Circle,Cedar Hills,Reuter,185500,179000,5/1/2018,6/6/2018
+33,245 Ivy Lane,Eagle Mountain,Goodrich,395000,375000,5/1/2018,7/16/2018
+34,11971 SW 269 Terrace,Cedar Hills,Carey,410000,397700,5/1/2018,6/26/2018
+35,1857 Pine Drive,Cedar Hills,Hernandez,560700,550000,5/1/2018,5/30/2018
+36,3461 East Lindon Way,American Fork,Reuter,450000,400000,5/2/2018,9/30/2018
+37,16235 Orange Boulevard,Cedar Hills,Lugo,395000,380000,5/5/2018,7/16/2018
+38,614 Lincoln Drive,Eagle Mountain,Reuter,475000,425250,5/5/2018,9/23/2018
+39,2448 Woodacres Road,Lehi,Hernandez,450000,382500,5/5/2018,6/16/2018
+40,401 Pinecone Circle,Alpine,Goodrich,1500120,140000,5/5/2018,9/30/2018
+41,421 Ivy Lane,Eagle Mountain,Pijuan,500000,425000,5/5/2018,11/15/2018
+42,765 East Sheridan Lane,Eagle Mountain,Minkus,460750,435500,5/5/2018,11/1/2018
+43,61 East Walnut Grove,American Fork,Goodrich,375000,376000,5/6/2018,5/15/2018
+44,1414 N Sheridan Road,Alpine,Pijuan,1250000,1225000,5/12/2018,6/6/2018
+45,487 Blue Skies Drive,American Fork,Goodrich,365750,355000,5/13/2018,8/15/2018
+46,10700 Lake Shore Lane,Cedar Hills,Carey,650000,598000,5/15/2018,6/9/2018
+47,73 East Oak Street,Eagle Mountain,Merkin,325000,325000,5/18/2018,5/31/2018
+48,81 Island Drive South,Alpine,Bethune,147800,150000,5/22/2018,6/16/2018
+49,3412 Kilmer Street,Lehi,Carey,180000,175000,5/23/2018,7/15/2018
+50,605 Reservoir Drive,Alpine,Reuter,310000,291400,5/22/2018,6/29/2018
+51,77 East Oak Street,Eagle Mountain,Bethune,345000,335000,5/23/2018,6/23/2018
+52,400 Ivy Lane,Eagle Mountain,Bethune,375000,330000,5/26/2018,8/30/2018
+53,1 Southampton Place,Lehi,Goodrich,215000,195000,5/28/2018,6/18/2018
+54,3418 North Sunset Lane,Eagle Mountain,Bethune,450000,400000,5/28/2018,8/15/2018
+55,1892 North 250 West,American Fork,Carey,315250,300000,5/28/2018,8/1/2018
+56,1629 NW 43rd Street,Cedar Hills,Carey,475000,450000,5/31/2018,8/19/2018
+57,3400 North Sunset Lane,Eagle Mountain,Merkin,400000,375000,5/31/2018,7/15/2018
+58,876 South California Way,American Fork,Hen,316000,316000,5/31/2018,6/30/2018
+59,21 Compass Road,Cedar Hills,Merkin,289900,279000,5/31/2018,6/1/2018
+60,34 West Oakley Drive,American Fork,Carey,345000,330000,6/1/2018,8/15/2018
+61,30 Kent Road,Lehi,Bethune,259900,246905,6/2/2018,9/2/2018
+62,140 East 3rd Street,Eagle Mountain,Hen,399000,350000,6/2/2018,11/30/2018
+63,160 West 5th Street,Eagle Mountain,Carey,410000,350750,6/3/2018,10/15/2018
+64,240 West 5th Street,Eagle Mountain,Reuter,285750,300000,6/5/2018,7/1/2018
+65,520 E Spring Street,Alpine,Minkus,189900,186102,6/6/2018,7/26/2018
+66,678 Mountain Circle,American Fork,Goodrich,335000,330000,6/10/2018,9/15/2018
+67,3490 North Sunset Lane,Eagle Mountain,Minkus,250000,275000,6/12/2018,6/25/2018
+68,4916 Rock Spring Road,Cedar Hills,Lugo,275000,264000,6/13/2018,7/21/2018
+69,8923 Harris Drive,Alpine,Minkus,589000,575000,6/18/2018,7/8/2018
+70,876 West Hadley Way,American Fork,Hernandez,345670,345000,6/20/2018,9/30/2018
+71,1132 SW 52nd Street,Cedar Hills,Hernandez,254500,236685,6/23/2018,9/21/2018
+72,416 East Oak,Eagle Mountain,Merkin,300000,250000,6/23/2018,11/2/2018
+73,10 Vestal Drive,Cedar Hills,Carey,555000,565000,6/24/2018,6/30/2018
+74,425 East Oak,Eagle Mountain,Bethune,275900,250000,6/24/2018,8/15/2018
+75,876 West Holiday,Alpine,Goodrich,475000,455000,6/24/2018,9/18/2018
+76,103 Jasper Drive,Lehi,Bethune,165900,159264,6/29/2018,9/6/2018
+77,516 East Oak,Eagle Mountain,Pijuan,299999,280000,6/29/2018,9/30/2018
+78,123 Oak Avenue,American Fork,Carey,400000,400000,6/30/2018,7/15/2018
+79,600 Ivy Lane,Eagle Mountain,Pijuan,339999,310000,6/30/2018,10/1/2018
+80,144 Oak Avenue,American Fork,Goodrich,380500,365000,6/30/2018,9/1/2018
+81,1600 Reeves Street,Cedar Hills,Reuter,245900,233605,6/30/2018,8/16/2018
